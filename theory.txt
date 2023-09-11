@@ -1,0 +1,10 @@
+It is a way to allocate memory to a data structure during the runtime.
+
+
+functions of DMA:- 
+
+1. malloc() - memory allocation
+2. calloc() - continuos allocation
+3. free() 
+4. realloc() - re-allocation
+
